@@ -1,3 +1,6 @@
+
+# Please use Python 3.0+
+
 from bs4 import BeautifulSoup
 import bs4
 import requests
